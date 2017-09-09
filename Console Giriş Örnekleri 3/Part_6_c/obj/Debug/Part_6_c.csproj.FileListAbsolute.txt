@@ -1,0 +1,6 @@
+C:\Users\BA\Desktop\Marathon 160817\Part_6_c\bin\Debug\Part_6_c.exe.config
+C:\Users\BA\Desktop\Marathon 160817\Part_6_c\bin\Debug\Part_6_c.exe
+C:\Users\BA\Desktop\Marathon 160817\Part_6_c\bin\Debug\Part_6_c.pdb
+C:\Users\BA\Desktop\Marathon 160817\Part_6_c\obj\Debug\Part_6_c.exe
+C:\Users\BA\Desktop\Marathon 160817\Part_6_c\obj\Debug\Part_6_c.pdb
+C:\Users\BA\Desktop\Marathon 160817\Part_6_c\obj\Debug\Part_6_c.csprojResolveAssemblyReference.cache

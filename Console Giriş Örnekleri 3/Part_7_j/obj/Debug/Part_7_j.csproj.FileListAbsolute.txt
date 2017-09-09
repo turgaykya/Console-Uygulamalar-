@@ -1,0 +1,5 @@
+C:\Users\BURAK\Desktop\Marathon 160817\Part_7_j\bin\Debug\Part_7_j.exe.config
+C:\Users\BURAK\Desktop\Marathon 160817\Part_7_j\bin\Debug\Part_7_j.exe
+C:\Users\BURAK\Desktop\Marathon 160817\Part_7_j\bin\Debug\Part_7_j.pdb
+C:\Users\BURAK\Desktop\Marathon 160817\Part_7_j\obj\Debug\Part_7_j.exe
+C:\Users\BURAK\Desktop\Marathon 160817\Part_7_j\obj\Debug\Part_7_j.pdb

@@ -1,0 +1,6 @@
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_3__Palindrome\bin\Debug\9_3__Palindrome.exe.config
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_3__Palindrome\bin\Debug\9_3__Palindrome.exe
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_3__Palindrome\bin\Debug\9_3__Palindrome.pdb
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_3__Palindrome\obj\Debug\9_3__Palindrome.csprojResolveAssemblyReference.cache
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_3__Palindrome\obj\Debug\9_3__Palindrome.exe
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_3__Palindrome\obj\Debug\9_3__Palindrome.pdb

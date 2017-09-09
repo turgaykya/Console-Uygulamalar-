@@ -1,0 +1,6 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\06_Console_If-Else\bin\Debug\06_Console_If-Else.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\06_Console_If-Else\bin\Debug\06_Console_If-Else.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\06_Console_If-Else\bin\Debug\06_Console_If-Else.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\06_Console_If-Else\obj\Debug\06_Console_If-Else.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\06_Console_If-Else\obj\Debug\06_Console_If-Else.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\06_Console_If-Else\obj\Debug\06_Console_If-Else.pdb

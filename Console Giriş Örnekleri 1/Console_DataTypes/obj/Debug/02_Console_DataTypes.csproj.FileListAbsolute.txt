@@ -1,0 +1,5 @@
+c:\users\ba\documents\visual studio 2013\Projects\ConsoleApp\Console_DataTypes\bin\Debug\Console_DataTypes.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\ConsoleApp\Console_DataTypes\obj\Debug\Console_DataTypes.exe
+c:\users\ba\documents\visual studio 2013\Projects\ConsoleApp\Console_DataTypes\obj\Debug\Console_DataTypes.pdb
+c:\users\ba\documents\visual studio 2013\Projects\ConsoleApp\Console_DataTypes\bin\Debug\Console_DataTypes.exe
+c:\users\ba\documents\visual studio 2013\Projects\ConsoleApp\Console_DataTypes\bin\Debug\Console_DataTypes.pdb

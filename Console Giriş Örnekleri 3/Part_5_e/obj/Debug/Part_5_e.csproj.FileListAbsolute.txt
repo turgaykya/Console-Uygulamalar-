@@ -1,0 +1,6 @@
+C:\Users\BURAK\Desktop\Marathon 160817\Part_5_e\bin\Debug\Part_5_e.exe.config
+C:\Users\BURAK\Desktop\Marathon 160817\Part_5_e\obj\Debug\Part_5_e.csprojResolveAssemblyReference.cache
+C:\Users\BURAK\Desktop\Marathon 160817\Part_5_e\bin\Debug\Part_5_e.exe
+C:\Users\BURAK\Desktop\Marathon 160817\Part_5_e\bin\Debug\Part_5_e.pdb
+C:\Users\BURAK\Desktop\Marathon 160817\Part_5_e\obj\Debug\Part_5_e.exe
+C:\Users\BURAK\Desktop\Marathon 160817\Part_5_e\obj\Debug\Part_5_e.pdb

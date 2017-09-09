@@ -1,0 +1,2 @@
+c:\users\ba\documents\visual studio 2013\Projects\Marathon 160817\Part_2_k\bin\Debug\Part_2_k.exe.config
+C:\Users\BURAK\Desktop\Marathon 160817\Part_2_k\bin\Debug\Part_2_k.exe.config

@@ -1,0 +1,6 @@
+c:\users\ba\documents\visual studio 2013\Projects\Lecture 060819\RefParameters\bin\Debug\RefParameters.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\Lecture 060819\RefParameters\bin\Debug\RefParameters.exe
+c:\users\ba\documents\visual studio 2013\Projects\Lecture 060819\RefParameters\bin\Debug\RefParameters.pdb
+c:\users\ba\documents\visual studio 2013\Projects\Lecture 060819\RefParameters\obj\Debug\RefParameters.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\Lecture 060819\RefParameters\obj\Debug\RefParameters.exe
+c:\users\ba\documents\visual studio 2013\Projects\Lecture 060819\RefParameters\obj\Debug\RefParameters.pdb

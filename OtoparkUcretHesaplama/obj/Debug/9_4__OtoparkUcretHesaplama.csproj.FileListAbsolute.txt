@@ -1,0 +1,6 @@
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_4__OtoparkUcretHesaplama\bin\Debug\9_4__OtoparkUcretHesaplama.exe.config
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_4__OtoparkUcretHesaplama\bin\Debug\9_4__OtoparkUcretHesaplama.exe
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_4__OtoparkUcretHesaplama\bin\Debug\9_4__OtoparkUcretHesaplama.pdb
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_4__OtoparkUcretHesaplama\obj\Debug\9_4__OtoparkUcretHesaplama.csprojResolveAssemblyReference.cache
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_4__OtoparkUcretHesaplama\obj\Debug\9_4__OtoparkUcretHesaplama.exe
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_4__OtoparkUcretHesaplama\obj\Debug\9_4__OtoparkUcretHesaplama.pdb

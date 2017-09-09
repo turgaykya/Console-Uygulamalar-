@@ -1,0 +1,5 @@
+c:\users\ba\documents\visual studio 2013\Projects\Marathon 160817\Part_1_c\bin\Debug\Part_1_c.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\Marathon 160817\Part_1_c\bin\Debug\Part_1_c.exe
+c:\users\ba\documents\visual studio 2013\Projects\Marathon 160817\Part_1_c\bin\Debug\Part_1_c.pdb
+c:\users\ba\documents\visual studio 2013\Projects\Marathon 160817\Part_1_c\obj\Debug\Part_1_c.exe
+c:\users\ba\documents\visual studio 2013\Projects\Marathon 160817\Part_1_c\obj\Debug\Part_1_c.pdb

@@ -1,0 +1,12 @@
+C:\Users\BURAK\Desktop\Marathon 160817\Part_5_c\bin\Debug\Part_5_c.exe.config
+C:\Users\BURAK\Desktop\Marathon 160817\Part_5_c\obj\Debug\Part_5_c.csprojResolveAssemblyReference.cache
+C:\Users\BURAK\Desktop\Marathon 160817\Part_5_c\bin\Debug\Part_5_c.exe
+C:\Users\BURAK\Desktop\Marathon 160817\Part_5_c\bin\Debug\Part_5_c.pdb
+C:\Users\BURAK\Desktop\Marathon 160817\Part_5_c\obj\Debug\Part_5_c.exe
+C:\Users\BURAK\Desktop\Marathon 160817\Part_5_c\obj\Debug\Part_5_c.pdb
+E:\YAZILIM\VISUAL\Console\Marathon 160817\Part_5_c\bin\Debug\Part_5_c.exe.config
+E:\YAZILIM\VISUAL\Console\Marathon 160817\Part_5_c\bin\Debug\Part_5_c.exe
+E:\YAZILIM\VISUAL\Console\Marathon 160817\Part_5_c\bin\Debug\Part_5_c.pdb
+E:\YAZILIM\VISUAL\Console\Marathon 160817\Part_5_c\obj\Debug\Part_5_c.csprojResolveAssemblyReference.cache
+E:\YAZILIM\VISUAL\Console\Marathon 160817\Part_5_c\obj\Debug\Part_5_c.exe
+E:\YAZILIM\VISUAL\Console\Marathon 160817\Part_5_c\obj\Debug\Part_5_c.pdb

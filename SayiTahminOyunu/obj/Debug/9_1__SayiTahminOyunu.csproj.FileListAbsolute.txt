@@ -1,0 +1,12 @@
+c:\users\burak\documents\visual studio 2013\Projects\160819 Projects\9_1__SayiTahminOyunu\bin\Debug\9_1__SayiTahminOyunu.exe.config
+c:\users\burak\documents\visual studio 2013\Projects\160819 Projects\9_1__SayiTahminOyunu\bin\Debug\9_1__SayiTahminOyunu.exe
+c:\users\burak\documents\visual studio 2013\Projects\160819 Projects\9_1__SayiTahminOyunu\bin\Debug\9_1__SayiTahminOyunu.pdb
+c:\users\burak\documents\visual studio 2013\Projects\160819 Projects\9_1__SayiTahminOyunu\obj\Debug\9_1__SayiTahminOyunu.csprojResolveAssemblyReference.cache
+c:\users\burak\documents\visual studio 2013\Projects\160819 Projects\9_1__SayiTahminOyunu\obj\Debug\9_1__SayiTahminOyunu.exe
+c:\users\burak\documents\visual studio 2013\Projects\160819 Projects\9_1__SayiTahminOyunu\obj\Debug\9_1__SayiTahminOyunu.pdb
+D:\BURAK\YAZILIM\PROJELER YEDEK\160819 Projects\9_1__SayiTahminOyunu\bin\Debug\9_1__SayiTahminOyunu.exe.config
+D:\BURAK\YAZILIM\PROJELER YEDEK\160819 Projects\9_1__SayiTahminOyunu\bin\Debug\9_1__SayiTahminOyunu.exe
+D:\BURAK\YAZILIM\PROJELER YEDEK\160819 Projects\9_1__SayiTahminOyunu\bin\Debug\9_1__SayiTahminOyunu.pdb
+D:\BURAK\YAZILIM\PROJELER YEDEK\160819 Projects\9_1__SayiTahminOyunu\obj\Debug\9_1__SayiTahminOyunu.csprojResolveAssemblyReference.cache
+D:\BURAK\YAZILIM\PROJELER YEDEK\160819 Projects\9_1__SayiTahminOyunu\obj\Debug\9_1__SayiTahminOyunu.exe
+D:\BURAK\YAZILIM\PROJELER YEDEK\160819 Projects\9_1__SayiTahminOyunu\obj\Debug\9_1__SayiTahminOyunu.pdb

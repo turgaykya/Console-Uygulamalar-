@@ -1,0 +1,6 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture 060819\RecursiveMethods\bin\Debug\RecursiveMethods.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture 060819\RecursiveMethods\bin\Debug\RecursiveMethods.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture 060819\RecursiveMethods\bin\Debug\RecursiveMethods.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture 060819\RecursiveMethods\obj\Debug\RecursiveMethods.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture 060819\RecursiveMethods\obj\Debug\RecursiveMethods.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture 060819\RecursiveMethods\obj\Debug\RecursiveMethods.pdb

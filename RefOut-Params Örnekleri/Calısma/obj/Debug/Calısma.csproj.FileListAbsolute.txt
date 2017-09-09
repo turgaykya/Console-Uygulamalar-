@@ -1,0 +1,6 @@
+c:\users\ba\documents\visual studio 2013\Projects\ParamsKeyword\Calısma\bin\Debug\Calısma.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\ParamsKeyword\Calısma\bin\Debug\Calısma.exe
+c:\users\ba\documents\visual studio 2013\Projects\ParamsKeyword\Calısma\bin\Debug\Calısma.pdb
+c:\users\ba\documents\visual studio 2013\Projects\ParamsKeyword\Calısma\obj\Debug\Calısma.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\ParamsKeyword\Calısma\obj\Debug\Calısma.exe
+c:\users\ba\documents\visual studio 2013\Projects\ParamsKeyword\Calısma\obj\Debug\Calısma.pdb

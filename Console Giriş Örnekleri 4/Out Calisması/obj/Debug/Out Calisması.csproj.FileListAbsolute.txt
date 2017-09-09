@@ -1,0 +1,5 @@
+c:\users\ba\documents\visual studio 2013\Projects\Lecture 060819\Out Calisması\bin\Debug\Out Calisması.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\Lecture 060819\Out Calisması\bin\Debug\Out Calisması.exe
+c:\users\ba\documents\visual studio 2013\Projects\Lecture 060819\Out Calisması\bin\Debug\Out Calisması.pdb
+c:\users\ba\documents\visual studio 2013\Projects\Lecture 060819\Out Calisması\obj\Debug\Out Calisması.exe
+c:\users\ba\documents\visual studio 2013\Projects\Lecture 060819\Out Calisması\obj\Debug\Out Calisması.pdb

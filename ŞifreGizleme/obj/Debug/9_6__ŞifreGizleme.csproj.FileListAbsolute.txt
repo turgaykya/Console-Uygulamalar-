@@ -1,0 +1,5 @@
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_6__ŞifreGizleme\bin\Debug\9_6__ŞifreGizleme.exe.config
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_6__ŞifreGizleme\bin\Debug\9_6__ŞifreGizleme.exe
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_6__ŞifreGizleme\bin\Debug\9_6__ŞifreGizleme.pdb
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_6__ŞifreGizleme\obj\Debug\9_6__ŞifreGizleme.exe
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_6__ŞifreGizleme\obj\Debug\9_6__ŞifreGizleme.pdb

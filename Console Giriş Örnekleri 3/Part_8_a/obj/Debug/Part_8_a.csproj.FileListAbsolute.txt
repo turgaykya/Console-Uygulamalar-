@@ -1,0 +1,5 @@
+C:\Users\BURAK\Desktop\Marathon 160817\Part_8_a\bin\Debug\Part_8_a.exe.config
+C:\Users\BURAK\Desktop\Marathon 160817\Part_8_a\bin\Debug\Part_8_a.exe
+C:\Users\BURAK\Desktop\Marathon 160817\Part_8_a\bin\Debug\Part_8_a.pdb
+C:\Users\BURAK\Desktop\Marathon 160817\Part_8_a\obj\Debug\Part_8_a.exe
+C:\Users\BURAK\Desktop\Marathon 160817\Part_8_a\obj\Debug\Part_8_a.pdb

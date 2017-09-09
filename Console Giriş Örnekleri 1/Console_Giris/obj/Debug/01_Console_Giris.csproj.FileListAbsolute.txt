@@ -1,0 +1,3 @@
+c:\users\ba\documents\visual studio 2013\Projects\ConsoleApp\Console_Giris\bin\Debug\Console_Giris.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\ConsoleApp\Console_Giris\obj\Debug\Console_Giris.exe
+c:\users\ba\documents\visual studio 2013\Projects\ConsoleApp\Console_Giris\obj\Debug\Console_Giris.pdb

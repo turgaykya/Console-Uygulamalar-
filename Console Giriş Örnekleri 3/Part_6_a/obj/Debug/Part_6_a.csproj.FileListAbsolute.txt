@@ -1,0 +1,12 @@
+C:\Users\BURAK\Desktop\Marathon 160817\Part_6_a\bin\Debug\Part_6_a.exe.config
+C:\Users\BURAK\Desktop\Marathon 160817\Part_6_a\obj\Debug\Part_6_a.csprojResolveAssemblyReference.cache
+C:\Users\BURAK\Desktop\Marathon 160817\Part_6_a\bin\Debug\Part_6_a.exe
+C:\Users\BURAK\Desktop\Marathon 160817\Part_6_a\bin\Debug\Part_6_a.pdb
+C:\Users\BURAK\Desktop\Marathon 160817\Part_6_a\obj\Debug\Part_6_a.exe
+C:\Users\BURAK\Desktop\Marathon 160817\Part_6_a\obj\Debug\Part_6_a.pdb
+C:\Users\BA\Desktop\Marathon 160817\Part_6_a\bin\Debug\Part_6_a.exe.config
+C:\Users\BA\Desktop\Marathon 160817\Part_6_a\obj\Debug\Part_6_a.exe
+C:\Users\BA\Desktop\Marathon 160817\Part_6_a\obj\Debug\Part_6_a.pdb
+C:\Users\BA\Desktop\Marathon 160817\Part_6_a\bin\Debug\Part_6_a.exe
+C:\Users\BA\Desktop\Marathon 160817\Part_6_a\bin\Debug\Part_6_a.pdb
+C:\Users\BA\Desktop\Marathon 160817\Part_6_a\obj\Debug\Part_6_a.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+c:\users\ba\documents\visual studio 2013\Projects\RomaNumerals\NumberConvertRomaNumber\bin\Debug\NumberConvertRomaNumber.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\RomaNumerals\NumberConvertRomaNumber\bin\Debug\NumberConvertRomaNumber.exe
+c:\users\ba\documents\visual studio 2013\Projects\RomaNumerals\NumberConvertRomaNumber\bin\Debug\NumberConvertRomaNumber.pdb
+c:\users\ba\documents\visual studio 2013\Projects\RomaNumerals\NumberConvertRomaNumber\obj\Debug\NumberConvertRomaNumber.exe
+c:\users\ba\documents\visual studio 2013\Projects\RomaNumerals\NumberConvertRomaNumber\obj\Debug\NumberConvertRomaNumber.pdb
+E:\YAZILIM\VISUAL\Console\RomaNumerals\NumberConvertRomaNumber\bin\Debug\NumberConvertRomaNumber.exe.config
+E:\YAZILIM\VISUAL\Console\RomaNumerals\NumberConvertRomaNumber\bin\Debug\NumberConvertRomaNumber.exe
+E:\YAZILIM\VISUAL\Console\RomaNumerals\NumberConvertRomaNumber\bin\Debug\NumberConvertRomaNumber.pdb
+E:\YAZILIM\VISUAL\Console\RomaNumerals\NumberConvertRomaNumber\obj\Debug\NumberConvertRomaNumber.csprojResolveAssemblyReference.cache
+E:\YAZILIM\VISUAL\Console\RomaNumerals\NumberConvertRomaNumber\obj\Debug\NumberConvertRomaNumber.exe
+E:\YAZILIM\VISUAL\Console\RomaNumerals\NumberConvertRomaNumber\obj\Debug\NumberConvertRomaNumber.pdb

@@ -1,0 +1,5 @@
+C:\Users\Emre\Documents\Visual Studio 2013\Projects\Lecture 160817\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.exe.config
+C:\Users\Emre\Documents\Visual Studio 2013\Projects\Lecture 160817\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.exe
+C:\Users\Emre\Documents\Visual Studio 2013\Projects\Lecture 160817\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.pdb
+C:\Users\Emre\Documents\Visual Studio 2013\Projects\Lecture 160817\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.exe
+C:\Users\Emre\Documents\Visual Studio 2013\Projects\Lecture 160817\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.pdb

@@ -1,0 +1,12 @@
+c:\users\ba\documents\visual studio 2013\Projects\Marathon 160817\Part_1_a\bin\Debug\Part_1_a.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\Marathon 160817\Part_1_a\bin\Debug\Part_1_a.exe
+c:\users\ba\documents\visual studio 2013\Projects\Marathon 160817\Part_1_a\bin\Debug\Part_1_a.pdb
+c:\users\ba\documents\visual studio 2013\Projects\Marathon 160817\Part_1_a\obj\Debug\Part_1_a.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\Marathon 160817\Part_1_a\obj\Debug\Part_1_a.exe
+c:\users\ba\documents\visual studio 2013\Projects\Marathon 160817\Part_1_a\obj\Debug\Part_1_a.pdb
+C:\Users\BURAK\Desktop\Marathon 160817\Part_1_a\bin\Debug\Part_1_a.exe.config
+C:\Users\BURAK\Desktop\Marathon 160817\Part_1_a\obj\Debug\Part_1_a.exe
+C:\Users\BURAK\Desktop\Marathon 160817\Part_1_a\obj\Debug\Part_1_a.pdb
+C:\Users\BA\Desktop\Marathon 160817\Part_1_a\bin\Debug\Part_1_a.exe.config
+C:\Users\BA\Desktop\Marathon 160817\Part_1_a\obj\Debug\Part_1_a.exe
+C:\Users\BA\Desktop\Marathon 160817\Part_1_a\obj\Debug\Part_1_a.pdb

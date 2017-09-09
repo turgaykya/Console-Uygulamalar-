@@ -1,0 +1,12 @@
+c:\users\ba\documents\visual studio 2013\Projects\ParamsKeyword\ParamsKeyword\bin\Debug\ParamsKeyword.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\ParamsKeyword\ParamsKeyword\obj\Debug\ParamsKeyword.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\ParamsKeyword\ParamsKeyword\bin\Debug\ParamsKeyword.exe
+c:\users\ba\documents\visual studio 2013\Projects\ParamsKeyword\ParamsKeyword\bin\Debug\ParamsKeyword.pdb
+c:\users\ba\documents\visual studio 2013\Projects\ParamsKeyword\ParamsKeyword\obj\Debug\ParamsKeyword.exe
+c:\users\ba\documents\visual studio 2013\Projects\ParamsKeyword\ParamsKeyword\obj\Debug\ParamsKeyword.pdb
+E:\YAZILIM\VISUAL\Console\Yeni klasör\params vs\ParamsKeyword\ParamsKeyword\bin\Debug\ParamsKeyword.exe.config
+E:\YAZILIM\VISUAL\Console\Yeni klasör\params vs\ParamsKeyword\ParamsKeyword\bin\Debug\ParamsKeyword.exe
+E:\YAZILIM\VISUAL\Console\Yeni klasör\params vs\ParamsKeyword\ParamsKeyword\bin\Debug\ParamsKeyword.pdb
+E:\YAZILIM\VISUAL\Console\Yeni klasör\params vs\ParamsKeyword\ParamsKeyword\obj\Debug\ParamsKeyword.csprojResolveAssemblyReference.cache
+E:\YAZILIM\VISUAL\Console\Yeni klasör\params vs\ParamsKeyword\ParamsKeyword\obj\Debug\ParamsKeyword.exe
+E:\YAZILIM\VISUAL\Console\Yeni klasör\params vs\ParamsKeyword\ParamsKeyword\obj\Debug\ParamsKeyword.pdb

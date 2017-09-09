@@ -1,0 +1,8 @@
+C:\Users\BA\Desktop\Marathon 160817\Part_7_h\bin\Debug\Part_7_h.exe.config
+C:\Users\BA\Desktop\Marathon 160817\Part_7_h\bin\Debug\Part_7_h.exe
+C:\Users\BA\Desktop\Marathon 160817\Part_7_h\bin\Debug\Part_7_h.pdb
+C:\Users\BA\Desktop\Marathon 160817\Part_7_h\obj\Debug\Part_7_h.exe
+C:\Users\BA\Desktop\Marathon 160817\Part_7_h\obj\Debug\Part_7_h.pdb
+C:\Users\BURAK\Desktop\Marathon 160817\Part_7_h\bin\Debug\Part_7_h.exe.config
+C:\Users\BURAK\Desktop\Marathon 160817\Part_7_h\obj\Debug\Part_7_h.exe
+C:\Users\BURAK\Desktop\Marathon 160817\Part_7_h\obj\Debug\Part_7_h.pdb

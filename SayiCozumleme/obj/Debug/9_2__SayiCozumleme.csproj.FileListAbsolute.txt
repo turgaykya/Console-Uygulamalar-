@@ -1,0 +1,12 @@
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_2__SayiCozumleme\bin\Debug\9_2__SayiCozumleme.exe.config
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_2__SayiCozumleme\bin\Debug\9_2__SayiCozumleme.exe
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_2__SayiCozumleme\bin\Debug\9_2__SayiCozumleme.pdb
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_2__SayiCozumleme\obj\Debug\9_2__SayiCozumleme.exe
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_2__SayiCozumleme\obj\Debug\9_2__SayiCozumleme.pdb
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160819 Projects\9_2__SayiCozumleme\obj\Debug\9_2__SayiCozumleme.csprojResolveAssemblyReference.cache
+D:\BURAK\YAZILIM\PROJELER YEDEK\160819 Projects\9_2__SayiCozumleme\bin\Debug\9_2__SayiCozumleme.exe.config
+D:\BURAK\YAZILIM\PROJELER YEDEK\160819 Projects\9_2__SayiCozumleme\bin\Debug\9_2__SayiCozumleme.exe
+D:\BURAK\YAZILIM\PROJELER YEDEK\160819 Projects\9_2__SayiCozumleme\bin\Debug\9_2__SayiCozumleme.pdb
+D:\BURAK\YAZILIM\PROJELER YEDEK\160819 Projects\9_2__SayiCozumleme\obj\Debug\9_2__SayiCozumleme.csprojResolveAssemblyReference.cache
+D:\BURAK\YAZILIM\PROJELER YEDEK\160819 Projects\9_2__SayiCozumleme\obj\Debug\9_2__SayiCozumleme.exe
+D:\BURAK\YAZILIM\PROJELER YEDEK\160819 Projects\9_2__SayiCozumleme\obj\Debug\9_2__SayiCozumleme.pdb

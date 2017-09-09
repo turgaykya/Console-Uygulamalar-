@@ -1,0 +1,11 @@
+c:\users\ba\documents\visual studio 2013\Projects\Marathon 160817\Part_4_a\bin\Debug\Part_4_a.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\Marathon 160817\Part_4_a\bin\Debug\Part_4_a.exe
+c:\users\ba\documents\visual studio 2013\Projects\Marathon 160817\Part_4_a\bin\Debug\Part_4_a.pdb
+c:\users\ba\documents\visual studio 2013\Projects\Marathon 160817\Part_4_a\obj\Debug\Part_4_a.exe
+c:\users\ba\documents\visual studio 2013\Projects\Marathon 160817\Part_4_a\obj\Debug\Part_4_a.pdb
+C:\Users\BURAK\Desktop\Marathon 160817\Part_4_a\bin\Debug\Part_4_a.exe.config
+C:\Users\BURAK\Desktop\Marathon 160817\Part_4_a\obj\Debug\Part_4_a.exe
+C:\Users\BURAK\Desktop\Marathon 160817\Part_4_a\obj\Debug\Part_4_a.pdb
+C:\Users\BURAK\Desktop\Marathon 160817\Part_4_a\bin\Debug\Part_4_a.exe
+C:\Users\BURAK\Desktop\Marathon 160817\Part_4_a\bin\Debug\Part_4_a.pdb
+C:\Users\BURAK\Desktop\Marathon 160817\Part_4_a\obj\Debug\Part_4_a.csprojResolveAssemblyReference.cache
